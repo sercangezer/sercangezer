@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sercan GEZER</h1>
-<h3 align="center">A Site Reliability Engineer from TURKIYE.</h3>
+<h3 align="center">A Linux & Virtualization System Admin from TURKIYE.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sercangezer&label=Profile%20views&color=0e75b6&style=flat" alt="sercangezer" /> </p>
 
