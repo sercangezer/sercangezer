@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sercan GEZER</h1>
 <h3 align="center">A Linux & Virtualization System Admin from TURKIYE.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sercangezer&label=Profile%20views&color=0e75b6&style=flat" alt="sercangezer" /> </p>
-
-
 - 🌱 I’m currently learning **Linux, kubernetes, docker, Virtualization**
 
 - 📝 I regularly write articles on [http://www.sercangezer.com.tr/](http://www.sercangezer.com.tr/)
@@ -32,5 +29,7 @@
 [![LFS253: Containers Fundamentals](https://images.credly.com/size/100x100/images/e06d5627-5ff7-483f-b8e1-4157287ffdc2/LF_logobadge.png)](https://www.credly.com/badges/a5ef38cf-98da-43bb-8c4f-eaf9ba83c6d4 "LFS253: Containers Fundamentals")
 [![LFS261: DevOps and SRE Fundamentals - Implementing Continuous Delivery](https://images.credly.com/size/100x100/images/fb65d04a-6138-4c71-b475-9c3851aea5df/LF_logobadge.png)](https://www.credly.com/badges/1b36df0f-e720-4635-ab5e-13778c7c33f6 "LFS261: DevOps and SRE Fundamentals - Implementing Continuous Delivery")
 <!--END_SECTION:badges-->
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sercangezer&label=Profile%20views&color=0e75b6&style=flat" alt="sercangezer" /> </p>
 
 
