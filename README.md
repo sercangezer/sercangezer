@@ -21,8 +21,10 @@
 <!--START_SECTION:badges-->
 
 [![LFCS: Linux Foundation Certified Systems Administrator](https://images.credly.com/size/100x100/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png)](https://www.credly.com/badges/f05b4a5c-ddbd-4b95-9557-972a0e147fd1 "LFCS: Linux Foundation Certified Systems Administrator")
-[![LFS201: Essentials of Linux System Administration](https://images.credly.com/size/100x100/images/0498414f-41d1-421b-9c5d-50df6e0d7247/LF_logobadge.png)](https://www.credly.com/badges/cf44b43b-b150-4c92-bd07-21f29d9c3ba7 "LFS201: Essentials of Linux System Administration")
 
+
+[![LFS201: Essentials of Linux System Administration](https://images.credly.com/size/100x100/images/0498414f-41d1-421b-9c5d-50df6e0d7247/LF_logobadge.png)](https://www.credly.com/badges/cf44b43b-b150-4c92-bd07-21f29d9c3ba7 "LFS201: Essentials of Linux System Administration")
+[![LFS211: Linux Networking and Administration](https://images.credly.com/size/100x100/images/bbc42abf-bcb2-4e05-8993-a7a973d90f21/LF_logobadge.png)](https://www.credly.com/badges/df11a7bd-60c6-40e7-9cc1-5080a4d3f2d3 "LFS211: Linux Networking and Administration")
 
 
 
