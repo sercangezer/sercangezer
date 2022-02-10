@@ -20,9 +20,8 @@
 <h2> My Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width = 50px> </h2>
 <!--START_SECTION:badges-->
 
-[![LFCS: Linux Foundation Certified Systems Administrator](https://images.credly.com/size/110x110/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png)](https://www.credly.com/badges/f05b4a5c-ddbd-4b95-9557-972a0e147fd1 "LFCS: Linux Foundation Certified Systems Administrator")
-
-
+[![LFCS: Linux Foundation Certified Systems Administrator](https://images.credly.com/size/100x100/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png)](https://www.credly.com/badges/f05b4a5c-ddbd-4b95-9557-972a0e147fd1 "LFCS: Linux Foundation Certified Systems Administrator")
+[![LFS201: Essentials of Linux System Administration](https://images.credly.com/size/100x100/images/0498414f-41d1-421b-9c5d-50df6e0d7247/LF_logobadge.png)](https://www.credly.com/badges/cf44b43b-b150-4c92-bd07-21f29d9c3ba7 "LFS201: Essentials of Linux System Administration")
 
 
 
