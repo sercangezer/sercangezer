@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sercan GEZER</h1>
-<h3 align="center">A Linux & Virtualization System Admin from TURKIYE.</h3>
+<h3 align="center">A Linux System Admin from TURKIYE.</h3>
 
 - 🌱 I’m currently learning **Linux, kubernetes, docker, Virtualization**
 
